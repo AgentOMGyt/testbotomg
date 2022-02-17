@@ -1,0 +1,8 @@
+{
+  "name": "omgbotdiscord",
+  "author": "Jacob Lee",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest"
+  }
+}
